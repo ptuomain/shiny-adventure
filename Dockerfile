@@ -1,5 +1,5 @@
 # A basic apache server. To use either add or bind mount content under /var/www
-FROM ubuntu:14.04
+FROM ubuntu:12.04
 
 MAINTAINER PT version: 0.1
 
